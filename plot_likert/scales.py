@@ -104,6 +104,42 @@ scores7: Scale = [
     "7 - Strongly Agree",
 ]
 
+always5: Scale = [
+    "Never",
+    "Rarely",
+    "Sometimes",
+    "Usually",
+    "Always"
+]
+always: Scale = always5
+
+difficulty5: Scale = [
+    "Way too hard",
+    "Slightly too hard",
+    "Balanced",
+    "Slightly too easy",
+    "Way too easy"
+]
+difficulty: Scale = difficulty5
+
+pace5: Scale = [
+    "Way too slow",
+    "Too slow",
+    "Just right",
+    "Too fast",
+    "Way too fast"
+]
+pace: Scale = pace5
+
+quality5: Scale = [
+    "Very poor",
+    "Poor",
+    "Fair",
+    "Good",
+    "Excellent"
+]
+quality: Scale = quality5
+
 raw5_0: Scale = ["0", "1", "2", "3", "4", "5"]
 raw5: Scale = ["1", "2", "3", "4", "5"]
 
